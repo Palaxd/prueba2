@@ -1,0 +1,17 @@
+body{
+    background-color: #E92B1B;
+}
+div{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+h1{
+    background-color: skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    padding-left: 575px;
+}
